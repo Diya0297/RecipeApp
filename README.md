@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Link to deployed project in versel -> https://vercel.com/diya-patels-projects-4078f654/recipe-app-j9mr/3RYZn5oWCuAZKH2yQBpmSrdtsCYz
 ## Available Scripts
 
 In the project directory, you can run:
